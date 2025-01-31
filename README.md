@@ -7,7 +7,7 @@
 
 - 1단계 (진행중)
   - [x] [국가유산청 OpenAPI](https://www.cha.go.kr/html/HtmlPage.do?pg=/publicinfo/pbinfo3_0201.jsp&mn=NS_04_04_03) 등을 활용해 국보, 보물로 지정된 국가유산에 대한 JSON 데이터셋 정리.
-  - [] 문화유산 영문 명칭 수록
+  - [ ] 문화유산 영문 명칭 수록
 - N단계
   - 시도등록문화유산 포함
 
