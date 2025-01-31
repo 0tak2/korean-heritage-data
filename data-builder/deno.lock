@@ -1,0 +1,44 @@
+{
+  "version": "4",
+  "specifiers": {
+    "jsr:@libs/xml@*": "6.0.4",
+    "npm:ky@*": "1.7.4"
+  },
+  "jsr": {
+    "@libs/xml@6.0.4": {
+      "integrity": "c896f17016dbf5f2d62496e0bd6cd7db145c05987d0e45d4dd2c87785a60f528"
+    }
+  },
+  "npm": {
+    "ky@1.7.4": {
+      "integrity": "sha512-zYEr/gh7uLW2l4su11bmQ2M9xLgQLjyvx58UyNM/6nuqyWFHPX5ktMjvpev3F8QWdjSsHUpnWew4PBCswBNuMQ=="
+    }
+  },
+  "redirects": {
+    "https://deno.land/x/ky@1.7.4/distribution/": "https://deno.land/x/ky@1.7.4/distribution",
+    "https://deno.land/x/ky@v1.7.4/": "https://deno.land/x/ky@v1.7.4",
+    "https://esm.sh/ky": "https://esm.sh/ky@1.7.4"
+  },
+  "remote": {
+    "https://deno.land/x/notranspile_saxes@v6.0.0-deno/saxes.ts": "26a97ff5f36ca89099122180a72ce8adf96aa04984c0f6916d150b1f50bee1a4",
+    "https://deno.land/x/notranspile_xmlchars@v2.2.0-deno/xml/1.0/ed5.ts": "a0aa62e43aa80ce1fd4cf211ff7211084d30ee945e00d7d01bc9c74fdbe94efa",
+    "https://deno.land/x/notranspile_xmlchars@v2.2.0-deno/xml/1.1/ed2.ts": "ef316e2fdc10274f631c94d3b29773779d8516e58f07530c50a63efeb8ddbfcb",
+    "https://deno.land/x/notranspile_xmlchars@v2.2.0-deno/xmlns/1.0/ed3.ts": "436536158941b761e58b2edd5612a9db76ec68e4c55be78e137aee442138f90d",
+    "https://deno.land/x/xml2js@1.0.0/mod.ts": "62add6d5672e3ea523fd4398632742080bff027abe0fae96d74e28edb7b6a328",
+    "https://deno.land/x/xml2js@1.0.0/options-helper.ts": "37e04aec6262c01513c885e06bb3e1d2b1e52dce83784b68b099f298c858aefe",
+    "https://deno.land/x/xml2js@1.0.0/options.ts": "5919bb07f3edb4f7ba1fa00a67eaa8075d02bfa767a438d46c8d705be30743d5",
+    "https://deno.land/x/xml2js@1.0.0/xml2js.ts": "d056e5003f03722e0f48e9c871bc5b04447b74f619aa825a951a34a0509883e1",
+    "https://deno.land/x/xml@6.0.4/_types.ts": "a7435282a7a775d80f8528aeec49996192c47fef8a8f616a1b216792424dc125",
+    "https://deno.land/x/xml@6.0.4/mod.ts": "b59e5c0dd9fe7ed597c21c39aacf089aa82fe5c5eaad3f411a43a9c104359f4e",
+    "https://deno.land/x/xml@6.0.4/parse.ts": "1302c75d8fd40df39310bb8ae6716302f0b77c61c607437dc023d3d792a0df54",
+    "https://deno.land/x/xml@6.0.4/stringify.ts": "0e2f79798d413c5386bf5de90bbe9901f99951ceae484050a8ef89e2b4da9dd0",
+    "https://deno.land/x/xml@6.0.4/wasm_xml_parser/wasm_xml_parser.js": "0804d738e6d94284b043546260b547bb4731fbfd3b3851139740e863dabf25bd",
+    "https://esm.sh/ky@1.7.4": "2e056540440b9e8159ca3c5842f3c8dfa0d44d803fbf8266aa5ba21c74625000",
+    "https://esm.sh/ky@1.7.4/denonext/ky.mjs": "c5bc4bcebd1c33da92b74dd185183629883ed03b41b8bceef7b5a5b830910860"
+  },
+  "workspace": {
+    "dependencies": [
+      "jsr:@std/assert@1"
+    ]
+  }
+}
