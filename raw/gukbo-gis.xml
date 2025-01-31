@@ -1,0 +1,2613 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+Source: Korea Heritage Service, National Heritage Geographic Information Service (https://gis-heritage.go.kr/helpAPI.do)
+Date: 2025-01-31
+Original request URL: https://gis-heritage.go.kr/openapi/xmlService/spca.do?ccbaKdcd=11
+-->
+<ns2:response xmlns:ns2="http://gis-heritage.go.kr/">
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>서울 숭례문</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>953661.63985715597</cnX>
+    <cnY>1951310.8132360999</cnY>
+    <crltsnoNm>제1호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 성 / 성곽시설</ctgrname>
+    <sn>1</sn>
+    <vlocName>서울특별시 중구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>서울 원각사지 십층석탑</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954807.36059718905</cnX>
+    <cnY>1952582.46766725</cnY>
+    <crltsnoNm>제2호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>2</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>서울 북한산 신라 진흥왕 순수비</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제3호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>3</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>여주 고달사지 승탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1013470.11486392</cnX>
+    <cnY>1932765.83254527</cnY>
+    <crltsnoNm>제4호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>4</sn>
+    <vlocName>경기도 여주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>법주사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>보은 법주사 쌍사자 석등</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1029825.95772155</cnX>
+    <cnY>1838326.37914313</cnY>
+    <crltsnoNm>제5호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 석등</ctgrname>
+    <sn>5</sn>
+    <vlocName>충청북도 보은군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>충주 탑평리 칠층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1032614.57790803</cnX>
+    <cnY>1890882.74967949</cnY>
+    <crltsnoNm>제6호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>6</sn>
+    <vlocName>충청북도 충주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>천안 봉선홍경사 갈기비</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>967475.26489434904</cnX>
+    <cnY>1882813.33025646</cnY>
+    <crltsnoNm>제7호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>7</sn>
+    <vlocName>충청남도 천안시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>보령 성주사지 대낭혜화상탑비</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>924215.987808523</cnX>
+    <cnY>1816696.87341399</cnY>
+    <crltsnoNm>제8호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>8</sn>
+    <vlocName>충청남도 보령시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>부여 정림사지 오층석탑</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>947314.51903222804</cnX>
+    <cnY>1809272.9417079601</cnY>
+    <crltsnoNm>제9호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>9</sn>
+    <vlocName>충청남도 부여군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>백장암</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>남원 실상사 백장암 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1010888.33582962</cnX>
+    <cnY>1716312.3544526999</cnY>
+    <crltsnoNm>제10호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>10</sn>
+    <vlocName>전북특별자치도 남원시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>익산 미륵사지 석탑</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>957697.02872487204</cnX>
+    <cnY>1779613.1439137501</cnY>
+    <crltsnoNm>제11호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>11</sn>
+    <vlocName>전북특별자치도 익산시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>화엄사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>구례 화엄사 각황전 앞 석등</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>999769.72764784796</cnX>
+    <cnY>1695747.4175644999</cnY>
+    <crltsnoNm>제12호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 석등</ctgrname>
+    <sn>12</sn>
+    <vlocName>전라남도 구례군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>무위사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>강진 무위사 극락보전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>925554.42025738896</cnX>
+    <cnY>1638562.28704866</cnY>
+    <crltsnoNm>제13호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>13</sn>
+    <vlocName>전라남도 강진군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>은해사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>영천 거조사 영산전</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1113942.7477913101</cnX>
+    <cnY>1781106.5492233699</cnY>
+    <crltsnoNm>제14호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>14</sn>
+    <vlocName>경상북도 영천시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>봉정사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>안동 봉정사 극락전</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1103897.16204982</cnX>
+    <cnY>1851247.50079422</cnY>
+    <crltsnoNm>제15호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>15</sn>
+    <vlocName>경상북도 안동시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>안동 법흥사지 칠층전탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1111528.8090546799</cnX>
+    <cnY>1841634.0922973</cnY>
+    <crltsnoNm>제16호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>16</sn>
+    <vlocName>경상북도 안동시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>부석사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>영주 부석사 무량수전 앞 석등</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1105658.51177022</cnX>
+    <cnY>1889583.7586979901</cnY>
+    <crltsnoNm>제17호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 석등</ctgrname>
+    <sn>17</sn>
+    <vlocName>경상북도 영주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>부석사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>영주 부석사 무량수전</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1105661.3469545599</cnX>
+    <cnY>1889600.30483872</cnY>
+    <crltsnoNm>제18호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>18</sn>
+    <vlocName>경상북도 영주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>부석사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>영주 부석사 조사당</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1105752.0874490701</cnX>
+    <cnY>1889673.3228295799</cnY>
+    <crltsnoNm>제19호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>19</sn>
+    <vlocName>경상북도 영주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>불국사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 불국사 다보탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1165582.53223081</cnX>
+    <cnY>1756389.8958825299</cnY>
+    <crltsnoNm>제20호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>20</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>불국사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 불국사 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1165557.6253915201</cnX>
+    <cnY>1756385.32545425</cnY>
+    <crltsnoNm>제21호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>21</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>불국사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 불국사 연화교 및 칠보교</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1165527.7354906499</cnX>
+    <cnY>1756358.2128329801</cnY>
+    <crltsnoNm>제22호</crltsnoNm>
+    <ctgrname>유적건조물 / 교통통신 / 교통 / 교량</ctgrname>
+    <sn>22</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>불국사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 불국사 청운교 및 백운교</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1165574.1821107001</cnX>
+    <cnY>1756359.3583390601</cnY>
+    <crltsnoNm>제23호</crltsnoNm>
+    <ctgrname>유적건조물 / 교통통신 / 교통 / 교량</ctgrname>
+    <sn>23</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>석굴암</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 석굴암 석굴</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1167193.7508425601</cnX>
+    <cnY>1756966.3172581799</cnY>
+    <crltsnoNm>제24호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>24</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 태종무열왕릉비</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1152527.1169386001</cnX>
+    <cnY>1760054.2113129401</cnY>
+    <crltsnoNm>제25호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>25</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>백률사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 백률사 금동약사여래입상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제28호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>26</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>성덕대왕신종</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제29호</crltsnoNm>
+    <ctgrname>유물 / 불교공예 / 의식법구 / 의식법구</ctgrname>
+    <sn>27</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>분황사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 분황사 모전석탑</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156570.7003681499</cnX>
+    <cnY>1761839.5597782801</cnY>
+    <crltsnoNm>제30호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>28</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 첨성대</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1155258.3399549599</cnX>
+    <cnY>1761165.9618168699</cnY>
+    <crltsnoNm>제31호</crltsnoNm>
+    <ctgrname>유물 / 과학기술 / 천문지리기구 / 천문</ctgrname>
+    <sn>29</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>창녕 신라 진흥왕 척경비</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1090888.5895960101</cnX>
+    <cnY>1727657.3788926599</cnY>
+    <crltsnoNm>제33호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>30</sn>
+    <vlocName>경상남도 창녕군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>창녕 술정리 동 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1090296.85795763</cnX>
+    <cnY>1727526.1689853401</cnY>
+    <crltsnoNm>제34호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>31</sn>
+    <vlocName>경상남도 창녕군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>화엄사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>구례 화엄사 사사자 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>999684.62571164302</cnX>
+    <cnY>1695727.33793719</cnY>
+    <crltsnoNm>제35호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 사찰</ctgrname>
+    <sn>32</sn>
+    <vlocName>전라남도 구례군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 황복사지 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1157376.98601508</cnX>
+    <cnY>1760924.28604722</cnY>
+    <crltsnoNm>제37호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>33</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 고선사지 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156180.8103783201</cnX>
+    <cnY>1760451.8884083401</cnY>
+    <crltsnoNm>제38호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>34</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 나원리 오층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1154535.7560620101</cnX>
+    <cnY>1767687.1297726401</cnY>
+    <crltsnoNm>제39호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>35</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 정혜사지 십삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1149372.38946061</cnX>
+    <cnY>1781516.9477947899</cnY>
+    <crltsnoNm>제40호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>36</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청주 용두사지 철당간</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>999084.02189134201</cnX>
+    <cnY>1848355.92095145</cnY>
+    <crltsnoNm>제41호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 당간</ctgrname>
+    <sn>37</sn>
+    <vlocName>충청북도 청주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>보림사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>장흥 보림사 남·북 삼층석탑 및 석등</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>944779.02989814</cnX>
+    <cnY>1646075.2922084699</cnY>
+    <crltsnoNm>제44호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>38</sn>
+    <vlocName>전라남도 장흥군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>쌍계사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>하동 쌍계사 진감선사탑비</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1013695.27172468</cnX>
+    <cnY>1693020.6997384699</cnY>
+    <crltsnoNm>제47호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>39</sn>
+    <vlocName>경상남도 하동군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>월정사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>평창 월정사 팔각 구층석탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1096230.7032716379</cnX>
+    <cnY>1970782.828965277</cnY>
+    <crltsnoNm>제48-1호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>40</sn>
+    <vlocName>강원특별자치도 평창군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>수덕사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>예산 수덕사 대웅전</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>921595.12699798099</cnX>
+    <cnY>1852063.9183382101</cnY>
+    <crltsnoNm>제49호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>41</sn>
+    <vlocName>충청남도 예산군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>도갑사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>영암 도갑사 해탈문</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>923311.07195297198</cnX>
+    <cnY>1640129.6548560001</cnY>
+    <crltsnoNm>제50호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 문</ctgrname>
+    <sn>42</sn>
+    <vlocName>전라남도 영암군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>강릉 임영관 삼문</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1122616.7225683101</cnX>
+    <cnY>1973500.8827905799</cnY>
+    <crltsnoNm>제51호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 관아</ctgrname>
+    <sn>43</sn>
+    <vlocName>강원특별자치도 강릉시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>해인사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>합천 해인사 장경판전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1054096.38367963</cnX>
+    <cnY>1756295.7196259899</cnY>
+    <crltsnoNm>제52호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 기타</ctgrname>
+    <sn>44</sn>
+    <vlocName>경상남도 합천군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>연곡사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>구례 연곡사 동 승탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1008038.9801243</cnX>
+    <cnY>1695535.49170783</cnY>
+    <crltsnoNm>제53호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>45</sn>
+    <vlocName>전라남도 구례군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>연곡사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>구례 연곡사 북 승탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1008028.8868072201</cnX>
+    <cnY>1695633.10699791</cnY>
+    <crltsnoNm>제54호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>46</sn>
+    <vlocName>전라남도 구례군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>법주사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>보은 법주사 팔상전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1029814.7269585</cnX>
+    <cnY>1838302.34190331</cnY>
+    <crltsnoNm>제55호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>47</sn>
+    <vlocName>충청북도 보은군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>송광사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>순천 송광사 국사전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>979604.406695785</cnX>
+    <cnY>1667460.42197435</cnY>
+    <crltsnoNm>제56호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>48</sn>
+    <vlocName>전라남도 순천시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>쌍봉사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>화순 쌍봉사 철감선사탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>959721.90092160099</cnX>
+    <cnY>1654929.7381949101</cnY>
+    <crltsnoNm>제57호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>49</sn>
+    <vlocName>전라남도 화순군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>원주 법천사지 지광국사탑비</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1023488.3110653301</cnX>
+    <cnY>1912345.40925215</cnY>
+    <crltsnoNm>제59호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>50</sn>
+    <vlocName>강원특별자치도 원주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 사자형뚜껑 향로</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제60호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>51</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 어룡형 주전자</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제61호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>52</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>금산사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>김제 금산사 미륵전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>959662.41255794303</cnX>
+    <cnY>1747515.7253008501</cnY>
+    <crltsnoNm>제62호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>53</sn>
+    <vlocName>전북특별자치도 김제시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>법주사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>보은 법주사 석련지</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1029759.68454635</cnX>
+    <cnY>1838250.46594061</cnY>
+    <crltsnoNm>제64호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 기타</ctgrname>
+    <sn>54</sn>
+    <vlocName>충청북도 보은군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>화엄사</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>구례 화엄사 각황전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>999746.30275440496</cnX>
+    <cnY>1695755.38991288</cnY>
+    <crltsnoNm>제67호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>55</sn>
+    <vlocName>전라남도 구례군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>의성 탑리리 오층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1106353.91815092</cnX>
+    <cnY>1807090.4281834201</cnY>
+    <crltsnoNm>제77호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>56</sn>
+    <vlocName>경상북도 의성군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>금동미륵보살반가사유상(1962-1)</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제78호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>57</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 구황동 금제여래좌상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제79호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>58</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 구황동 금제여래입상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제80호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>59</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 감산사 석조미륵보살입상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제81호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 보살상</ctgrname>
+    <sn>60</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 감산사 석조아미타여래입상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제82호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>61</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>금동미륵보살반가사유상(1962-2)</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제83호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>62</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>서산 용현리 마애여래삼존상</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>920151.72906313394</cnX>
+    <cnY>1864339.0328581501</cnY>
+    <crltsnoNm>제84호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>63</sn>
+    <vlocName>충청남도 서산시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>개성 경천사지 십층석탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제86호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>64</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>금관총 금관 및 금제 관식</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제87호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>65</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>금관총 금제 허리띠</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제88호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>66</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>평양 석암리 금제 띠고리</ccbaMnm>
+    <ccceName>삼한시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제89호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>67</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 부부총 금귀걸이</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제90호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>68</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>도기 기마인물형 명기</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제91호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 토기</ctgrname>
+    <sn>69</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청동 은입사 포류수금문 정병</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제92호</crltsnoNm>
+    <ctgrname>유물 / 불교공예 / 공양구 / 공양구</ctgrname>
+    <sn>70</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>백자 철화포도원숭이문 항아리</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제93호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 백자</ctgrname>
+    <sn>71</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 참외모양 병</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제94호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>72</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 투각칠보문뚜껑 향로</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제95호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>73</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 구룡형 주전자</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제96호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>74</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 음각연화당초문 매병</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제97호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>75</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 상감모란문 항아리</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제98호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>76</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>김천 갈항사지 동·서 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954117.55163462204,954119.96900873305</cnX>
+    <cnY>1947105.1093250499,1947111.2370873301</cnY>
+    <crltsnoNm>제99호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>77</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>개성 남계원지 칠층석탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954139.18916862796</cnX>
+    <cnY>1947125.30039319</cnY>
+    <crltsnoNm>제100호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>78</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>충주 정토사지 홍법국사탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제102호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>79</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>광양 중흥산성 쌍사자 석등</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>943835.49509974697</cnX>
+    <cnY>1688372.5345634399</cnY>
+    <crltsnoNm>제103호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 석등</ctgrname>
+    <sn>80</sn>
+    <vlocName>광주광역시 북구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>전 원주 흥법사지 염거화상탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954107.26341127604</cnX>
+    <cnY>1947261.4657384199</cnY>
+    <crltsnoNm>제104호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>81</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>계유명전씨아미타불비상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1001073.29190889</cnX>
+    <cnY>1850194.6799222501</cnY>
+    <crltsnoNm>제106호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>82</sn>
+    <vlocName>충청북도 청주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>군위 아미타여래삼존 석굴</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1102783.50201041</cnX>
+    <cnY>1784170.1846795999</cnY>
+    <crltsnoNm>제109호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>83</sn>
+    <vlocName>대구광역시 군위군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>이제현 초상</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제110호</crltsnoNm>
+    <ctgrname>유물 / 일반회화 / 인물화 / 초상화</ctgrname>
+    <sn>84</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>소수서원</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>안향 초상</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1096379.9464012301</cnX>
+    <cnY>1881373.2942236899</cnY>
+    <crltsnoNm>제111호</crltsnoNm>
+    <ctgrname>유물 / 일반회화 / 인물화 / 초상화</ctgrname>
+    <sn>85</sn>
+    <vlocName>경상북도 영주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>경주 감은사지 동·서 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1178745.7737920401,1178777.6807559</cnX>
+    <cnY>1752008.7627032001,1751987.8019240201</cnY>
+    <crltsnoNm>제112호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>86</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 철화양류문 통형 병</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제113호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>87</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 상감모란국화문 참외모양 병</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제114호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>88</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 상감당초문 완</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제115호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>89</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19621220</ccbaAsdt>
+    <ccbaMnm>청자 상감모란문 표주박모양 주전자</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제116호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>90</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19640330</ccbaAsdt>
+    <ccbaMnm>금동연가7년명여래입상</ccbaMnm>
+    <ccceName>고구려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제119호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>91</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19660228</ccbaAsdt>
+    <ccbaMnm>양양 진전사지 삼층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1092013.96640633</cnX>
+    <cnY>2013956.51994732</cnY>
+    <crltsnoNm>제122호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>92</sn>
+    <vlocName>강원특별자치도 양양군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19660726</ccbaAsdt>
+    <ccbaMnm>익산 왕궁리 오층석탑 사리장엄구</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>962937.37263006496</cnX>
+    <cnY>1756166.7673871301</cnY>
+    <crltsnoNm>제123호</crltsnoNm>
+    <ctgrname>유물 / 불교공예 / 사리장치 / 사리장치</ctgrname>
+    <sn>93</sn>
+    <vlocName>전북특별자치도 전주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19670621</ccbaAsdt>
+    <ccbaMnm>강릉 한송사지 석조보살좌상</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1022330.9413071499</cnX>
+    <cnY>1984939.0052411</cnY>
+    <crltsnoNm>제124호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>94</sn>
+    <vlocName>강원특별자치도 춘천시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19670621</ccbaAsdt>
+    <ccbaMnm>녹유골호(부석제외함)</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제125호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 녹유</ctgrname>
+    <sn>95</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19681219</ccbaAsdt>
+    <ccbaMnm>서울 삼양동 금동관음보살입상</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제127호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>96</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19681219</ccbaAsdt>
+    <ccbaMnm>구미 죽장리 오층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1070232.9799808401</cnX>
+    <cnY>1805986.28084125</cnY>
+    <crltsnoNm>제130호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>97</sn>
+    <vlocName>경상북도 구미시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19691107</ccbaAsdt>
+    <ccbaMnm>고려말 화령부 호적 관련 고문서</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제131호</crltsnoNm>
+    <ctgrname>기록유산 / 문서류 / 관부문서 / 호적류</ctgrname>
+    <sn>98</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19720302</ccbaAsdt>
+    <ccbaMnm>화순 대곡리 청동기 일괄</ccbaMnm>
+    <ccceName>미상</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>943835.49509974697</cnX>
+    <cnY>1688372.5345634399</cnY>
+    <crltsnoNm>제143호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 무속구</ctgrname>
+    <sn>99</sn>
+    <vlocName>광주광역시 북구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19720302</ccbaAsdt>
+    <ccbaMnm>영암 월출산 마애여래좌상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>925919.44145527994</cnX>
+    <cnY>1641339.9769446701</cnY>
+    <crltsnoNm>제144호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>100</sn>
+    <vlocName>전라남도 영암군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19720624</ccbaAsdt>
+    <ccbaMnm>귀면 청동로</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제145호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 청동용구</ctgrname>
+    <sn>101</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19730504</ccbaAsdt>
+    <ccbaMnm>울주 천전리 명문과 암각화</ccbaMnm>
+    <ccceName>선사시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1151709.48582527</cnX>
+    <cnY>1736649.4349473901</cnY>
+    <crltsnoNm>제147호</crltsnoNm>
+    <ctgrname>유물 / 일반조각 / 암벽조각 / 각석</ctgrname>
+    <sn>102</sn>
+    <vlocName>울산광역시 울주군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19730710</ccbaAsdt>
+    <ccbaMnm>십칠사찬고금통요 권16</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제148-1호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 금속활자본</ctgrname>
+    <sn>103</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19730710</ccbaAsdt>
+    <ccbaMnm>십칠사찬고금통요 권17</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>956071.85688243306</cnX>
+    <cnY>1944363.0296694799</cnY>
+    <crltsnoNm>제148-2호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 금속활자본</ctgrname>
+    <sn>104</sn>
+    <vlocName>서울특별시 서초구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19730710</ccbaAsdt>
+    <ccbaMnm>송조표전총류 권7</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제150호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 금속활자본</ctgrname>
+    <sn>105</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19731231</ccbaAsdt>
+    <ccbaMnm>조선왕조실록 정족산사고본</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제151-1호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 전적류 / 전적류</ctgrname>
+    <sn>106</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19731231</ccbaAsdt>
+    <ccbaMnm>조선왕조실록 오대산사고본</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제151-3호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 전적류 / 전적류</ctgrname>
+    <sn>107</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20190626</ccbaAsdt>
+    <ccbaMnm>조선왕조실록 적상산사고본</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제151-4호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 전적류 / 전적류</ctgrname>
+    <sn>108</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19731231</ccbaAsdt>
+    <ccbaMnm>비변사등록</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제152호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 필사본 / 등록류</ctgrname>
+    <sn>109</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19731231</ccbaAsdt>
+    <ccbaMnm>일성록</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제153호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 필사본 / 등록류</ctgrname>
+    <sn>110</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕 금제 관식</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제154호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>111</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕비 금제 관식</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제155호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>112</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕 금귀걸이</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제156호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>113</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕비 금귀걸이</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제157호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>114</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕비 금목걸이</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제158호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>115</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕 금제 뒤꽂이</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제159호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>116</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕비 은팔찌</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제160호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>117</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕릉 청동거울 일괄</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제161호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>118</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕릉 석수</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제162호</crltsnoNm>
+    <ctgrname>유물 / 일반조각 / 능묘조각 / 석수</ctgrname>
+    <sn>119</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕릉 지석</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제163호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 지석</ctgrname>
+    <sn>120</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕비 베개</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제164호</crltsnoNm>
+    <ctgrname>유물 / 기타종교공예 / 유교공예 / 의례용구</ctgrname>
+    <sn>121</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>무령왕 발받침</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제165호</crltsnoNm>
+    <ctgrname>유물 / 기타종교공예 / 유교공예 / 의례용구</ctgrname>
+    <sn>122</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>백자 철화매죽문 항아리</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제166호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 백자</ctgrname>
+    <sn>123</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>청자 인물형 주전자</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제167호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>124</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>백자 동화매국문 병</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제168호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 백자</ctgrname>
+    <sn>125</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>백자 청화매조죽문 유개항아리</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제170호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 백자</ctgrname>
+    <sn>126</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>백자 상감연화당초문 대접</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제175호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 백자</ctgrname>
+    <sn>127</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>박준형</ccbaAdmin>
+    <ccbaAsdt>19740709</ccbaAsdt>
+    <ccbaMnm>분청사기 음각어문 편병</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제178호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 분청</ctgrname>
+    <sn>128</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19741231</ccbaAsdt>
+    <ccbaMnm>김정희 필 세한도</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제180호</crltsnoNm>
+    <ctgrname>유물 / 일반회화 / 산수화 / 산수화</ctgrname>
+    <sn>129</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19760423</ccbaAsdt>
+    <ccbaMnm>구미 선산읍 금동여래입상</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1102759.84435246</cnX>
+    <cnY>1761634.7896789</cnY>
+    <crltsnoNm>제182호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>130</sn>
+    <vlocName>대구광역시 수성구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19760423</ccbaAsdt>
+    <ccbaMnm>구미 선산읍 금동보살입상(1976-1)</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1102759.84435246</cnX>
+    <cnY>1761634.7896789</cnY>
+    <crltsnoNm>제183호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>131</sn>
+    <vlocName>대구광역시 수성구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19760423</ccbaAsdt>
+    <ccbaMnm>구미 선산읍 금동보살입상(1976-2)</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1102759.84435246</cnX>
+    <cnY>1761634.7896789</cnY>
+    <crltsnoNm>제184호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>132</sn>
+    <vlocName>대구광역시 수성구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19760423</ccbaAsdt>
+    <ccbaMnm>상지은니 묘법연화경</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제185호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 필사본 / 사경</ctgrname>
+    <sn>133</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19761214</ccbaAsdt>
+    <ccbaMnm>양평 신화리 금동여래입상</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제186호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 불상</ctgrname>
+    <sn>134</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19770822</ccbaAsdt>
+    <ccbaMnm>영양 산해리 오층모전석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1140408.0468582599</cnX>
+    <cnY>1844153.80872232</cnY>
+    <crltsnoNm>제187호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>135</sn>
+    <vlocName>경상북도 영양군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>천마총 금관</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제188호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>136</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>천마총 관모</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제189호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>137</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>천마총 금제 허리띠</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제190호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>138</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>황남대총 북분 금관</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제191호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>139</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>황남대총 북분 금제 허리띠</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제192호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 금속공예 / 장신구</ctgrname>
+    <sn>140</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>경주 98호 남분 유리병 및 잔</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제193호</crltsnoNm>
+    <ctgrname>유물</ctgrname>
+    <sn>141</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19781207</ccbaAsdt>
+    <ccbaMnm>토우장식 장경호</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제195호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 토기</ctgrname>
+    <sn>142</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19790522</ccbaAsdt>
+    <ccbaMnm>충주 청룡사지 보각국사탑</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1030030.64347602</cnX>
+    <cnY>1903629.1178571</cnY>
+    <crltsnoNm>제197호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>143</sn>
+    <vlocName>충청북도 충주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19790522</ccbaAsdt>
+    <ccbaMnm>단양 신라 적성비</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1073105.4815114499</cnX>
+    <cnY>1883208.14160597</cnY>
+    <crltsnoNm>제198호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>144</sn>
+    <vlocName>충청북도 단양군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19790522</ccbaAsdt>
+    <ccbaMnm>경주 단석산 신선사 마애불상군</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1142947.6310918599</cnX>
+    <cnY>1756756.7036736701</cnY>
+    <crltsnoNm>제199호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>145</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>공유</ccbaAdmin>
+    <ccbaAsdt>19790430</ccbaAsdt>
+    <ccbaMnm>금동보살입상(1979)</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1145245.44914287</cnX>
+    <cnY>1682754.54219519</cnY>
+    <crltsnoNm>제200호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>146</sn>
+    <vlocName>부산광역시 남구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19800916</ccbaAsdt>
+    <ccbaMnm>봉화 북지리 마애여래좌상</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1110156.81545332</cnX>
+    <cnY>1882149.01029643</cnY>
+    <crltsnoNm>제201호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>147</sn>
+    <vlocName>경상북도 봉화군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19810318</ccbaAsdt>
+    <ccbaMnm>충주 고구려비</ccbaMnm>
+    <ccceName>고구려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1030996.8083759</cnX>
+    <cnY>1892229.8915395399</cnY>
+    <crltsnoNm>제205호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>148</sn>
+    <vlocName>충청북도 충주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19850108</ccbaAsdt>
+    <ccbaMnm>경복궁 근정전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>953817.993263343</cnX>
+    <cnY>1953367.8305524399</cnY>
+    <crltsnoNm>제223호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 궁궐</ctgrname>
+    <sn>149</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19850108</ccbaAsdt>
+    <ccbaMnm>경복궁 경회루</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>953731.65134225495</cnX>
+    <cnY>1953503.08355802</cnY>
+    <crltsnoNm>제224호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 궁궐</ctgrname>
+    <sn>150</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19850108</ccbaAsdt>
+    <ccbaMnm>창덕궁 인정전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>955066.50489348499</cnX>
+    <cnY>1953454.86273863</cnY>
+    <crltsnoNm>제225호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 궁궐</ctgrname>
+    <sn>151</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19850108</ccbaAsdt>
+    <ccbaMnm>창경궁 명정전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>955405.39422834595</cnX>
+    <cnY>1953384.0166986999</cnY>
+    <crltsnoNm>제226호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 궁궐</ctgrname>
+    <sn>152</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19850108</ccbaAsdt>
+    <ccbaMnm>종묘 정전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>955316.05854989996</cnX>
+    <cnY>1952960.5616843801</cnY>
+    <crltsnoNm>제227호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 사우</ctgrname>
+    <sn>153</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19850809</ccbaAsdt>
+    <ccbaMnm>천상열차분야지도 각석</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>953629.32563934894</cnX>
+    <cnY>1953150.96792139</cnY>
+    <crltsnoNm>제228호</crltsnoNm>
+    <ctgrname>유물 / 과학기술 / 천문지리기구 / 천문</ctgrname>
+    <sn>154</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>덕산사</ccbaAdmin>
+    <ccbaAsdt>20160107</ccbaAsdt>
+    <ccbaMnm>산청 석남암사지 석조비로자나불좌상</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1028187.0799144581</cnX>
+    <cnY>1700572.0110957762</cnY>
+    <crltsnoNm>제233-1호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>155</sn>
+    <vlocName>경상남도 산청군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19870309</ccbaAsdt>
+    <ccbaMnm>경주 장항리 서 오층석탑</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1169295.6412650801</cnX>
+    <cnY>1754782.1229578899</cnY>
+    <crltsnoNm>제236호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>156</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19871226</ccbaAsdt>
+    <ccbaMnm>송시열 초상</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제239호</crltsnoNm>
+    <ctgrname>유물 / 일반회화 / 인물화 / 초상화</ctgrname>
+    <sn>157</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19881228</ccbaAsdt>
+    <ccbaMnm>초조본 신찬일체경원품차록 권20</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제245호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본 / 대장도감본</ctgrname>
+    <sn>158</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19881228</ccbaAsdt>
+    <ccbaMnm>초조본 대보적경 권59</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제246호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본 / 대장도감본</ctgrname>
+    <sn>159</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19890410</ccbaAsdt>
+    <ccbaMnm>공주 의당 금동보살입상</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965270.53339430003</cnX>
+    <cnY>1829847.0808070099</cnY>
+    <crltsnoNm>제247호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>160</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19900521</ccbaAsdt>
+    <ccbaMnm>청자 양각연화당초상감모란문 은테 발</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제253호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 청자</ctgrname>
+    <sn>161</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>공유</ccbaAdmin>
+    <ccbaAsdt>19900920</ccbaAsdt>
+    <ccbaMnm>초조본 대방광불화엄경 주본 권1</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965311.24864240398</cnX>
+    <cnY>1918896.4175623599</cnY>
+    <crltsnoNm>제256호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본 / 대장도감본</ctgrname>
+    <sn>162</sn>
+    <vlocName>경기도 용인시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19910125</ccbaAsdt>
+    <ccbaMnm>분청사기 상감운룡문 항아리</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제259호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 분청</ctgrname>
+    <sn>163</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19910125</ccbaAsdt>
+    <ccbaMnm>분청사기 박지철채모란문 자라병</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제260호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 분청</ctgrname>
+    <sn>164</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19910315</ccbaAsdt>
+    <ccbaMnm>포항 냉수리 신라비</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1158647.5277307499</cnX>
+    <cnY>1793977.8395263399</cnY>
+    <crltsnoNm>제264호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>165</sn>
+    <vlocName>경상북도 포항시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19920420</ccbaAsdt>
+    <ccbaMnm>초조본 현양성교론 권12</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제271호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본 / 대장도감본</ctgrname>
+    <sn>166</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19920420</ccbaAsdt>
+    <ccbaMnm>초조본 유가사지론 권32</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제272호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본 / 대장도감본</ctgrname>
+    <sn>167</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19920728</ccbaAsdt>
+    <ccbaMnm>초조본 유가사지론 권15</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제273호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본 / 대장도감본</ctgrname>
+    <sn>168</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19930115</ccbaAsdt>
+    <ccbaMnm>도기 기마인물형 뿔잔</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156074.8952843801</cnX>
+    <cnY>1760588.1570550301</cnY>
+    <crltsnoNm>제275호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 토기</ctgrname>
+    <sn>169</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19930910</ccbaAsdt>
+    <ccbaMnm>성거산 천흥사명 동종</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>954082.68566874496</cnX>
+    <cnY>1947320.37231813</cnY>
+    <crltsnoNm>제280호</crltsnoNm>
+    <ctgrname>유물 / 불교공예 / 의식법구 / 의식법구</ctgrname>
+    <sn>170</sn>
+    <vlocName>서울특별시 용산구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>흑석사</ccbaAdmin>
+    <ccbaAsdt>19931105</ccbaAsdt>
+    <ccbaMnm>영주 흑석사 목조아미타여래좌상 및 복장유물</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1102759.84435246</cnX>
+    <cnY>1761634.7896789</cnY>
+    <crltsnoNm>제282호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 목조 / 불상</ctgrname>
+    <sn>171</sn>
+    <vlocName>대구광역시 수성구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>손성훈</ccbaAdmin>
+    <ccbaAsdt>19950310</ccbaAsdt>
+    <ccbaMnm>통감속편</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>960360.95934873202</cnX>
+    <cnY>1932752.92053595</cnY>
+    <crltsnoNm>제283호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 금속활자본</ctgrname>
+    <sn>172</sn>
+    <vlocName>경기도 성남시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19950623</ccbaAsdt>
+    <ccbaMnm>울주 대곡리 반구대 암각화</ccbaMnm>
+    <ccceName>석기시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1151980.5168903701</cnX>
+    <cnY>1735499.3601577999</cnY>
+    <crltsnoNm>제285호</crltsnoNm>
+    <ctgrname>유물 / 일반조각 / 암벽조각 / 암각화</ctgrname>
+    <sn>173</sn>
+    <vlocName>울산광역시 울주군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19960530</ccbaAsdt>
+    <ccbaMnm>백제 금동대향로</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>947817.935807114</cnX>
+    <cnY>1808943.3710445601</cnY>
+    <crltsnoNm>제287호</crltsnoNm>
+    <ctgrname>유물 / 불교공예 / 공양구 / 공양구</ctgrname>
+    <sn>174</sn>
+    <vlocName>충청남도 부여군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19960530</ccbaAsdt>
+    <ccbaMnm>부여 능산리사지 석조사리감</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>947817.935807114</cnX>
+    <cnY>1808943.3710445601</cnY>
+    <crltsnoNm>제288호</crltsnoNm>
+    <ctgrname>유물 / 불교공예 / 사리장치 / 사리장치</ctgrname>
+    <sn>175</sn>
+    <vlocName>충청남도 부여군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19970101</ccbaAsdt>
+    <ccbaMnm>익산 왕궁리 오층석탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>959841.95054234995</cnX>
+    <cnY>1775244.33449511</cnY>
+    <crltsnoNm>제289호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>176</sn>
+    <vlocName>전북특별자치도 익산시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>통도사</ccbaAdmin>
+    <ccbaAsdt>19970101</ccbaAsdt>
+    <ccbaMnm>양산 통도사 대웅전 및 금강계단</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1141846.1326114</cnX>
+    <cnY>1722490.9350455301</cnY>
+    <crltsnoNm>제290호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>177</sn>
+    <vlocName>경상남도 양산시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19970101</ccbaAsdt>
+    <ccbaMnm>부여 규암리 금동관음보살입상</ccbaMnm>
+    <ccceName>백제시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>947817.935807114</cnX>
+    <cnY>1808943.3710445601</cnY>
+    <crltsnoNm>제293호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 금속조 / 보살상</ctgrname>
+    <sn>178</sn>
+    <vlocName>충청남도 부여군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>19990409</ccbaAsdt>
+    <ccbaMnm>승정원일기</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제303호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 필사본 / 일기류</ctgrname>
+    <sn>179</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20010417</ccbaAsdt>
+    <ccbaMnm>여수 진남관</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1021657.18970852</cnX>
+    <cnY>1638643.0410299201</cnY>
+    <crltsnoNm>제304호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 관아</ctgrname>
+    <sn>180</sn>
+    <vlocName>전라남도 여수시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20021014</ccbaAsdt>
+    <ccbaMnm>통영 세병관</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1084390.9426829501</cnX>
+    <cnY>1650732.76476483</cnY>
+    <crltsnoNm>제305호</crltsnoNm>
+    <ctgrname>유적건조물 / 정치국방 / 궁궐·관아 / 관아</ctgrname>
+    <sn>181</sn>
+    <vlocName>경상남도 통영시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20030414</ccbaAsdt>
+    <ccbaMnm>삼국유사</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제306-2호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 목판본</ctgrname>
+    <sn>182</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20040831</ccbaAsdt>
+    <ccbaMnm>태안 동문리 마애삼존불입상</ccbaMnm>
+    <ccceName>삼국시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>892811.47571270703</cnX>
+    <cnY>1863889.36841882</cnY>
+    <crltsnoNm>제307호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>183</sn>
+    <vlocName>충청남도 태안군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>대흥사</ccbaAdmin>
+    <ccbaAsdt>20050928</ccbaAsdt>
+    <ccbaMnm>해남 대흥사 북미륵암 마애여래좌상</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>920213.01485832804</cnX>
+    <cnY>1609335.28283702</cnY>
+    <crltsnoNm>제308호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>184</sn>
+    <vlocName>전라남도 해남군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>남화진</ccbaAdmin>
+    <ccbaAsdt>20071217</ccbaAsdt>
+    <ccbaMnm>백자 달항아리(2007-2)</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>953629.32563934894</cnX>
+    <cnY>1953150.96792139</cnY>
+    <crltsnoNm>제310호</crltsnoNm>
+    <ctgrname>유물 / 생활공예 / 토도자공예 / 백자</ctgrname>
+    <sn>185</sn>
+    <vlocName>서울특별시 종로구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>봉정사</ccbaAdmin>
+    <ccbaAsdt>20090630</ccbaAsdt>
+    <ccbaMnm>안동 봉정사 대웅전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1103920.0051012801</cnX>
+    <cnY>1851243.1386255</cnY>
+    <crltsnoNm>제311호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>186</sn>
+    <vlocName>경상북도 안동시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20090902</ccbaAsdt>
+    <ccbaMnm>경주 남산 칠불암 마애불상군</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1156861.23780157</cnX>
+    <cnY>1754171.1590811401</cnY>
+    <crltsnoNm>제312호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>187</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>봉암사</ccbaAdmin>
+    <ccbaAsdt>20100104</ccbaAsdt>
+    <ccbaMnm>문경 봉암사 지증대사탑비</ccbaMnm>
+    <ccceName>통일신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1045155.1970730301</cnX>
+    <cnY>1855965.1147977901</cnY>
+    <crltsnoNm>제315호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>188</sn>
+    <vlocName>경상북도 문경시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>화암사</ccbaAdmin>
+    <ccbaAsdt>20111128</ccbaAsdt>
+    <ccbaMnm>완주 화암사 극락전</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>980833.19196380698</cnX>
+    <cnY>1785521.09782895</cnY>
+    <crltsnoNm>제316호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>189</sn>
+    <vlocName>전북특별자치도 완주군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20120629</ccbaAsdt>
+    <ccbaMnm>조선태조어진</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>962937.37263006496</cnX>
+    <cnY>1756166.7673871301</cnY>
+    <crltsnoNm>제317호</crltsnoNm>
+    <ctgrname>유물 / 일반회화 / 인물화 / 초상화</ctgrname>
+    <sn>190</sn>
+    <vlocName>전북특별자치도 전주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20150422</ccbaAsdt>
+    <ccbaMnm>포항 중성리 신라비</ccbaMnm>
+    <ccceName>신라시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1163399.3307848501</cnX>
+    <cnY>1755607.00156195</cnY>
+    <crltsnoNm>제318호</crltsnoNm>
+    <ctgrname>기록유산 / 서각류 / 금석각류 / 비</ctgrname>
+    <sn>191</sn>
+    <vlocName>경상북도 경주시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20150622</ccbaAsdt>
+    <ccbaMnm>동의보감(2015-1)</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>956071.85688243306</cnX>
+    <cnY>1944363.0296694799</cnY>
+    <crltsnoNm>제319-1호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 목활자본</ctgrname>
+    <sn>192</sn>
+    <vlocName>서울특별시 서초구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20150622</ccbaAsdt>
+    <ccbaMnm>동의보감(2015-2)</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>960360.95934873202</cnX>
+    <cnY>1932752.92053595</cnY>
+    <crltsnoNm>제319-2호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 목활자본</ctgrname>
+    <sn>193</sn>
+    <vlocName>경기도 성남시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20150622</ccbaAsdt>
+    <ccbaMnm>동의보감(2015-3)</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>951400.95044562803</cnX>
+    <cnY>1940491.18171626</cnY>
+    <crltsnoNm>제319-3호</crltsnoNm>
+    <ctgrname>기록유산 / 전적류 / 활자본 / 목활자본</ctgrname>
+    <sn>194</sn>
+    <vlocName>서울특별시 관악구</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>관촉사</ccbaAdmin>
+    <ccbaAsdt>20180420</ccbaAsdt>
+    <ccbaMnm>논산 관촉사 석조미륵보살입상</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>965179.77155033732</cnX>
+    <cnY>1799084.458203898</cnY>
+    <crltsnoNm>제323호</crltsnoNm>
+    <ctgrname>유물 / 불교조각 / 석조 / 불상</ctgrname>
+    <sn>195</sn>
+    <vlocName>충청남도 논산시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>용문사</ccbaAdmin>
+    <ccbaAsdt>20191202</ccbaAsdt>
+    <ccbaMnm>예천 용문사 대장전과 윤장대</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1077653.3129091065</cnX>
+    <cnY>1859624.783093977</cnY>
+    <crltsnoNm>제328호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 불전</ctgrname>
+    <sn>196</sn>
+    <vlocName>경상북도 예천군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>정암사</ccbaAdmin>
+    <ccbaAsdt>20200625</ccbaAsdt>
+    <ccbaMnm>정선 정암사 수마노탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1123664.854489818</cnX>
+    <cnY>1910188.5606596398</cnY>
+    <crltsnoNm>제332호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>197</sn>
+    <vlocName>강원특별자치도 정선군</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20231228</ccbaAsdt>
+    <ccbaMnm>삼척 죽서루</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1146896.7993535807</cnX>
+    <cnY>1939262.0708693278</cnY>
+    <crltsnoNm>제343호</crltsnoNm>
+    <ctgrname>유적건조물 / 주거생활 / 조경건축 / 누정</ctgrname>
+    <sn>198</sn>
+    <vlocName>강원특별자치도 삼척시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>국유</ccbaAdmin>
+    <ccbaAsdt>20231228</ccbaAsdt>
+    <ccbaMnm>밀양 영남루</ccbaMnm>
+    <ccceName>조선시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>1113844.5921539799</cnX>
+    <cnY>1722463.1993115209</cnY>
+    <crltsnoNm>제344호</crltsnoNm>
+    <ctgrname>유적건조물 / 주거생활 / 조경건축 / 누정</ctgrname>
+    <sn>199</sn>
+    <vlocName>경상남도 밀양시</vlocName>
+  </spca>
+  <spca>
+    <ccbaAdmin>마곡사</ccbaAdmin>
+    <ccbaAsdt>20250109</ccbaAsdt>
+    <ccbaMnm>공주 마곡사 오층석탑</ccbaMnm>
+    <ccceName>고려시대</ccceName>
+    <ccmaName>국보</ccmaName>
+    <cnX>956339.32096916402</cnX>
+    <cnY>1840253.3118524503</cnY>
+    <crltsnoNm>제348호</crltsnoNm>
+    <ctgrname>유적건조물 / 종교신앙 / 불교 / 탑</ctgrname>
+    <sn>200</sn>
+    <vlocName>충청남도 공주시</vlocName>
+  </spca>
+  <message>
+    <code>200</code>
+    <message>OK</message>
+  </message>
+  <totalCnt>200</totalCnt>
+</ns2:response>
