@@ -17,8 +17,10 @@ function getOptions(args: string[]): Options {
   })
 
   if (args.length === 0) {
+    console.log("🧐 아무 옵션도 지정하지 않으셨습니다. 기본 설정이 적용됩니댜.")
     console.log("help 옵션을 추가하면 도움말을 볼 수 있습니다.")
     console.log("> deno run main.ts --help")
+    console.log()
   }
 
   return {
@@ -68,7 +70,7 @@ async function showPrompt(options: Options): Promise<CouldStartTasks> {
     return false
   }
 
-  console.log('===== 입력 옵션 =====')
+  console.log('💬 입력 옵션 확인')
   console.log(`아웃풋 디렉토리: ${options.outputDir}`)
   console.log(`아웃풋 디렉토리 내 데이터셋 파일명: ${options.outputJsonFilename}`)
   console.log(`이미지 다운로드 여부: ${options.shouldSaveImage}`)
