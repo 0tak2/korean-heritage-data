@@ -16,8 +16,7 @@ function getOptions(args: string[]): Options {
     string: ['output-dir', 'output-json-filename', 'kind-code'],
   })
 
-  if (flags.length === 0) {
-    console.log("아무 옵션도 지정하지 않으셨습니다. 기본 설정이 적용됩니댜.")
+  if (args.length === 0) {
     console.log("help 옵션을 추가하면 도움말을 볼 수 있습니다.")
     console.log("> deno run main.ts --help")
   }
