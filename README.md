@@ -18,9 +18,15 @@
 ## 직접 데이터 다운로드
 
 1. deno 설치
-2. /builder 디렉토리 이동 후 main.ts 상단 옵션을 필요에 따라 수정
-3. main.ts 실행
-4. /builder/result 디렉토리 확인
+2. builder 디렉토리의 main.ts 실행
+
+  ```sh
+  > cd builder
+  > deno run --allow-write --allow-read --allow-net main.ts
+
+  # 도움말 (옵션 확인)
+  # deno run main.ts --help
+  ```
 
 ## 저작권
 
