@@ -44,7 +44,7 @@ async function getList(options: HeritageSearchRequestOptions): Promise<HeritageI
 async function getDetail(kindCode: HeritageKindCode, assetNumber: string, cityCode: string): Promise<HeritageDetailItem> {
   const response = await ky.get(`${BASE_PATH}/SearchKindOpenapiDt.do`, {
     searchParams: {
-      11: kindCode,
+      ccbaKdcd: kindCode,
       ccbaAsno: assetNumber,
       ccbaCtcd: cityCode,
     }
