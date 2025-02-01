@@ -61,4 +61,31 @@ async function saveToBuffer(buffer: ArrayBuffer, filePath: string) {
   }
 }
 
-export { saveToJson, saveToBuffer }
+async function makeDirectory(path: string) {
+  try {
+    await Deno.mkdir(path, { recursive: true });
+  } catch (err) {
+    if (!(err instanceof Deno.errors.AlreadyExists)) {
+      throw err;
+    }
+
+    console.error(`Already existed... path=${path}`)
+  }
+}
+
+async function checkDirectory(path: string) {
+  try {
+    const fileInfo = await Deno.lstat(path)
+    if (!fileInfo.isDirectory) {
+      throw new Error('It is not a directory...')
+    }
+  } catch (err) {
+    if (!(err instanceof Deno.errors.NotFound)) {
+      throw err;
+    }
+    
+    makeDirectory(path)
+  }
+}
+
+export { saveToJson, saveToBuffer, checkDirectory }

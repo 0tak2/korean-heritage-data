@@ -107,9 +107,15 @@ enum HeritageKindCode {
   Ibuk5doMyeongYuhansan = '80',
 }
 
+function getHeritageKindCodeFromRawValue(rawValue: string | undefined): HeritageKindCode | undefined {
+  return Object.values(HeritageKindCode).includes(rawValue as HeritageKindCode)
+  ? (rawValue as HeritageKindCode)
+  : undefined
+}
+
 export type {
   HeritageSearchRequestOptions, HeritageItem, HeritageItemResponse, HeritageSearchListResponse,
   HeritageDetailItem, HeritageDetailResponse,
 }
 
-export { HeritageKindCode }
+export { HeritageKindCode, getHeritageKindCodeFromRawValue }
