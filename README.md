@@ -30,7 +30,6 @@
 
 ## 저작권
 
-(c) 대한민국 국가유산청, 2025  
-(c) Korea Heritage Service, 2025
-
-- OpenAPI 데이터에 대한 저작권 정책이 명확하지 않아 대외적/영리적 활용 시 기관 확인 필요
+- 국가유산청 OpenAPI를 통해 수집한 메타데이터는 공공데이터 1유형을 따르며, 그 외 링크로 포함된 이미지의 경우 공공누리 1~4 유형을 따름 (민원 확인)
+- 이미지에 대한 저작권 정책은 개별 항목 별로 [국가유산포털](https://www.heritage.go.kr/)에서 직접 확인
+- [국가유산청 저작권 정책](https://www.khs.go.kr/html/HtmlPage.do?pg=/guide/copyright.jsp&mn=NS_08_03)
